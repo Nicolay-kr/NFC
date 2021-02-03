@@ -1,0 +1,1 @@
+const video=document.querySelector("video");function proceedToLogin(){window.location.href="login.html"}video.playbackRate=3,window.addEventListener("click",proceedToLogin),window.addEventListener("keydown",proceedToLogin);
